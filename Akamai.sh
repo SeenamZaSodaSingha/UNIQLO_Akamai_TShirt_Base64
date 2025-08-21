@@ -1,6 +1,6 @@
 #/bin/bash
 eval "$(base64 -d << 'IyEvYmluL2Jhc2gKCiMgQ29uZ3Jhd
-HVsYXRpb25zISBZb3UgZm91bmQgdGhlIGVhc3RlciBlZ2chI0KdpO+4jwojIOOBiuO
+HVsYXRpb25zISBZb3UgZm91bmQgdGhlIGVhc3RlciBlZ2chIOKdpO+4jwojIOOBiuO
 CgeOBр+OBqOOBhuOBlOOBluOBhOOBvuОBme+8gemaoOOBleOCjOOBn+OCteODl+OD
 qeOСрООСuuОСkuіmi+OBрОOBkeOBvuOBl+OBn++8geKdpO+4jwoKIyBEZWZpbmUgd
 GhlIHRleHQgdG8gYW5pbWF0ZQp0ZXh0PSLimaVQRUFDReKZpUZPUuKZpUFMTOKZpV
